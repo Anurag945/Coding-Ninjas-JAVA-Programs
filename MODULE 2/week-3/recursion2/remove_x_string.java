@@ -18,6 +18,6 @@ public class remove_x_string {
     
     public static void main(String[] args) {
         String name="xxaxnxuxxrxxaxxg";
-        System.out.println(removex(name));
+        System.out.println(removex(name));   /*This function is used to remove x from string */
     }
 }
